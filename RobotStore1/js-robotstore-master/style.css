@@ -1,0 +1,81 @@
+html{
+    background-color: #a9a9a9;
+
+}
+
+
+.headerlogo{
+  width: 90px;
+  height: 90px;
+  position: relative;
+  border: 3px solid red;
+}
+#headername{
+  font-style: italic;
+  font-weight: 900;
+  font-size: 100px;
+  color: black;
+  position: relative;
+}
+
+.searchbox{
+  position: relative;
+  left: 300px;
+  bottom: 50px;
+}
+
+#welcometext{
+  column-count: 2;
+  font-weight: bold;
+}
+
+li{
+  display: inline;
+}
+a{
+  display: inline-flex;
+  padding: 8px;
+  background-color: red;
+}
+
+p{
+  display:inline;
+}
+
+title{
+  background-color: red;
+}
+
+#robo1{
+  border: 5px solid red;
+}
+#robo2{
+  border:5px solid red;
+}
+#robo3{
+  border:5px solid red;
+}
+
+#fullname{
+  background-color: white;
+}
+
+#email{
+  background-color: white;
+}
+
+#yloc{
+  background-color: white;
+}
+
+#inputtext{
+  background-color: white;
+}
+
+
+
+
+fieldset{
+  border-color: transparent;
+  font-family: 'Roboto Mono', monospace;
+}
